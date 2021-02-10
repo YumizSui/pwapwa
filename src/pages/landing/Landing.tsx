@@ -1,5 +1,5 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
+import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Landing = (): JSX.Element => (
   <div>
@@ -13,6 +13,6 @@ const Landing = (): JSX.Element => (
       </li>
     </ul>
   </div>
-);
+)
 
-export default Landing;
+export default Landing
