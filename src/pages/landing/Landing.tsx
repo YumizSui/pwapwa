@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Landing = (): JSX.Element => (
   <div>
-    <h1>Hello, Landing Page!</h1>
+    <h1>チュートリアルを集めて</h1>
     <ul>
       <li>
         <Link to="/app">App (Main)</Link>
