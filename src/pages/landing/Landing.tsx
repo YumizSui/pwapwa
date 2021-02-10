@@ -11,6 +11,9 @@ const Landing = (): JSX.Element => (
       <li>
         <Link to="/counter">Counter</Link>
       </li>
+      <li>
+        <Link to="/timer">Timer</Link>
+      </li>
     </ul>
   </div>
 )

@@ -11,7 +11,6 @@ export default function Counter(): JSX.Element {
     incrementAsync,
     setIncrementAmount,
   } = counter.actions;
-  // counter.actions.incrementみたいな書き方もできる
 
   return (
     <div>
