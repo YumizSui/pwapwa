@@ -1,13 +1,17 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
+import { Provider } from 'react-redux';
+import { store } from './stores/store';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration'
 import reportWebVitals from './reportWebVitals'
 import MainRoute from './pages/MainRoute'
 
 ReactDOM.render(
   <React.StrictMode>
+  <Provider store={store}>
     <MainRoute />
+  </Provider>
   </React.StrictMode>,
   document.getElementById('root')
 )
