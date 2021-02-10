@@ -1,25 +1,19 @@
 {
   "files": {
-    "main.css": "/pwapwa/static/css/main.8c8b27cf.chunk.css",
+    "main.css": "/pwapwa/static/css/main.31c5b48e.chunk.css",
     "main.js": "/pwapwa/static/js/main.5d63baf2.chunk.js",
-    "main.js.map": "/pwapwa/static/js/main.5d63baf2.chunk.js.map",
     "runtime-main.js": "/pwapwa/static/js/runtime-main.5794d0b0.js",
-    "runtime-main.js.map": "/pwapwa/static/js/runtime-main.5794d0b0.js.map",
     "static/js/2.bd48f3b5.chunk.js": "/pwapwa/static/js/2.bd48f3b5.chunk.js",
-    "static/js/2.bd48f3b5.chunk.js.map": "/pwapwa/static/js/2.bd48f3b5.chunk.js.map",
     "static/js/3.77977768.chunk.js": "/pwapwa/static/js/3.77977768.chunk.js",
-    "static/js/3.77977768.chunk.js.map": "/pwapwa/static/js/3.77977768.chunk.js.map",
     "index.html": "/pwapwa/index.html",
     "service-worker.js": "/pwapwa/service-worker.js",
-    "service-worker.js.map": "/pwapwa/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pwapwa/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.bd48f3b5.chunk.js.LICENSE.txt": "/pwapwa/static/js/2.bd48f3b5.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/pwapwa/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.5794d0b0.js",
     "static/js/2.bd48f3b5.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
+    "static/css/main.31c5b48e.chunk.css",
     "static/js/main.5d63baf2.chunk.js"
   ]
 }
