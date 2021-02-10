@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
+import MainRoute from './pages/MainRoute';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <MainRoute />
   </React.StrictMode>,
   document.getElementById('root')
 );
